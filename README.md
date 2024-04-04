@@ -1,10 +1,9 @@
-# presentacion-
+# presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+- Soy Victoria Bonaventura
+- Tengo 21 años
+- Soy de Escobar
+- Me gusta ver series y películas
+- Hago danza clásica
+  
 
-Ya saben usar git!
